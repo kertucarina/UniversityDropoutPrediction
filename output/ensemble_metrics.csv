@@ -1,0 +1,2 @@
+,Accuracy,Precision,Recall,F1-score,ROC-AUC,Mean cross-validation score
+0,0.8619497580087577,0.7772020725388601,0.7252215954875101,0.7503126302626094,<function roc_auc_score at 0x7f8870ea8a60>,<function cross_val_score at 0x7f8868416790>
