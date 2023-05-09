@@ -1,4 +1,4 @@
-# UniversityDropoutPrediction
+# University Dropout Prediction Using Machine Learning Models
 High dropout rates are a relevant problem in higher education institutions all over the globe. As this issue negatively affects both students, universities, and society as a whole, predicting dropout risk has become a popular research field.
 
 This repository is created as part of a bachelor's thesis, the aim of which is to create a machine learning model for predicting the dropout risk of bachelor and integrated study program students in University of Tartu, using the educational analytical data collected by the study information system of University of Tartu from 2011 to 2022.
