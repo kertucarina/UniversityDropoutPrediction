@@ -8,4 +8,4 @@ We have implemented and evaluated several machine learning models, each utilizin
 * The model's ROC AUC score was 0.94, indicating very high ability to distinguish between classes.
 Although these results are promising, it is important to verify the model's performance once newer data becomes available to ensure its generalisation.
 
-As a result of this practical work, a set of risk models with improved predictive power over the currently deployed model was created. An outcome of this research has the potential to be integrated into the university's educational analytics dash¬board in the future. This would allow program managers to proactively intervene in risk situations. 
+As a result of this practical work, a set of risk models with improved predictive power over the currently deployed model was created. An outcome of this research has the potential to be integrated into the university's educational analytics dashboard in the future. This would allow program managers to proactively intervene in risk situations. 
